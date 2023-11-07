@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 if __name__ == '__main__':
     word1, word2 = [input(f'Enter word{i+1}: ') for i in range(2)]
     result = ''
